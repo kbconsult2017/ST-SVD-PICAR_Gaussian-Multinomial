@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "ST SVD-PICAR: compressed spatio-temporal basis functions"
+authors:
+  - family-names: Afari
+    given-names: Kyei Baffour
+    affiliation: "Department of Biostatistics, University of Nebraska Medical Center"
+    email: kafari@unmc.edu
+  - family-names: Gwon
+    given-names: Yeongjin
+    affiliation: "Department of Biostatistics, University of Nebraska Medical Center"
+preferred-citation:
+  type: article
+  title: "Compressed spatio-temporal basis functions: An SVD-PICAR framework for scalable Gaussian and multinomial inference"
+  authors:
+    - family-names: Afari
+      given-names: Kyei Baffour
+    - family-names: Gwon
+      given-names: Yeongjin
