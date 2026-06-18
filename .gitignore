@@ -1,0 +1,16 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+
+# Output scratch
+*.log
+*.aux
+/tmp/
