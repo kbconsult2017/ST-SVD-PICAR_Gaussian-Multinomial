@@ -1,5 +1,0 @@
-# Keep data out of the language statistics
-data/** linguist-vendored
-
-# Exclude any rendered HTML from stats
-*.html linguist-generated
