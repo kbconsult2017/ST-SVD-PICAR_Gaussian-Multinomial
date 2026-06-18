@@ -1,8 +1,5 @@
-# treat everything in /data as non-code so it doesn't affect the language bar
-data/* linguist-vendored
+# Keep data out of the language statistics
+data/** linguist-vendored
 
-# force a specific file to be detected as R
-analysis.txt linguist-language=R
-
-# mark generated files so they're excluded
+# Exclude any rendered HTML from stats
 *.html linguist-generated
