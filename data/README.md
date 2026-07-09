@@ -14,6 +14,3 @@ own data and do not read any file here.)
 - The lung-cancer mortality response was derived via the George Mason University
   Air Quality lab; meteorological variables were derived from NASA NLDAS-2.
 
-Please confirm and cite the original data sources and any redistribution terms
-before sharing. If a dataset cannot be redistributed, replace the file here
-with a small example or a download script and update `data_path` accordingly.
